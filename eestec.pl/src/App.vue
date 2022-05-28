@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <img alt="EESTEC logo" src="./assets/eestec-logo.png">
+    <h2>EESTEC</h2>
     <HelloWorld />
   </div>
 </template>
@@ -24,5 +25,9 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+
+h2 {
+  color: red;
 }
 </style>
