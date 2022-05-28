@@ -27,7 +27,4 @@ export default {
   margin-top: 60px;
 }
 
-h2 {
-  color: red;
-}
 </style>
