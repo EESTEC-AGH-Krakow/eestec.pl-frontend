@@ -1,5 +1,12 @@
 <template>
-<div></div>
+<div>
+  <b-container class="bv-example-row">
+ <b-row>
+    <b-col cols="12" md="7">"EESTEC AGH Krakow jest lokalnym komitetem ogólnoeuropejskiej organizacji studenckiej non-profit, której celem jest zrzeszanie studentów EECS (Electrical Engineering and Computer Science). "</b-col>
+    <b-col cols="12" md="5">"mapa"</b-col>
+  </b-row>
+  </b-container>
+</div>
   
 </template>
 
